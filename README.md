@@ -19,7 +19,7 @@ This repository contains Python code for an extensive analysis of a marketing ca
 This is a conversion campaign, with the objective being the users' purchases to the platform.
 
 ## Ad Set Overview
-There are 3 ad sets taregeting 3 different types of audience:
+The ad sets can be segmented into 3 categories, taregeting 3 different types of audience:
 - **Hot**: Targeting the audience with the highest brand familiarity
 - **Warm**: Targeting the audience with the some brand familiarity
 - **Cold**: Targeting the audience with the minimal brand familiarity
@@ -31,7 +31,6 @@ Utilizing pandas, the code loads and explores the marketing campaign dataset.
 Calculation and summarization of key campaign metrics.
 ### Step 3: Ad Set Overview
 Evaluation of the overall metrics of the 3 ad sets
-
 Further segmentation of the Cold ad set: Lookalike vs Detailed Targeting
 ### Step 4: Detailed Ad Set Analysis
 Focused analysis on Hot, Warm, and Cold ad sets.
