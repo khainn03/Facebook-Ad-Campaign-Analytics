@@ -2,7 +2,7 @@
 
 ## Project Overview
 This repository contains Python code for an extensive analysis of a marketing campaign dataset, providing insights for the marketing team to evaluate the campaigns' effectiveness and optimize strategies.
-This is a conversion campaign, with the objective being the users' subcriptions to the platform.
+This is a conversion campaign, with the objective being the users' purchases to the platform.
 
 ## Ad Set Overview
 There are 3 ad sets taregeting 3 different types of audience:
