@@ -23,6 +23,8 @@ The ad sets can be segmented into 3 categories, taregeting 3 different types of 
 - **Hot**: Targeting the audience with the highest brand familiarity
 - **Warm**: Targeting the audience with the some brand familiarity
 - **Cold**: Targeting the audience with the minimal brand familiarity
+   + Lookalike: Leveraging Facebook's algorithms to target audiences sharing characteristics with the brand's known audience.
+   + Detailed targeting: Focusing on audience segments defined by pre-established characteristics.
 
 ## Code Structure
 ### Step 1: Examine the Dataset
